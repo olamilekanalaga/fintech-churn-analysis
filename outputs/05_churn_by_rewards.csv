@@ -1,0 +1,4 @@
+rewards_segment,users,churned_users,churn_rate_pct,avg_rewards
+No Rewards,2996,1687,56.31,0.0
+Low Rewards,16360,8037,49.13,19.54
+High Rewards,5385,1449,26.91,69.16

@@ -1,0 +1,5 @@
+activity_segment,users,churned_users,churn_rate_pct,avg_activity_score
+Very Low Activity,6186,3898,63.01,0.89
+Low Activity,6185,3435,55.54,9.29
+Moderate Activity,6185,2458,39.74,37.17
+High Activity,6185,1382,22.34,139.82

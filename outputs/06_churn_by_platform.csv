@@ -1,0 +1,5 @@
+platform_segment,users,churned_users,churn_rate_pct
+Web Only,1111,650,58.51
+Unknown,79,38,48.1
+App + Web,13904,6350,45.67
+App Only,9647,4135,42.86

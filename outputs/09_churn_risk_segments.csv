@@ -1,0 +1,4 @@
+risk_segment,users,churned_users,churn_rate_pct,avg_risk_score
+High Risk,2760,1642,59.49,69.92
+Medium Risk,9541,5653,59.25,42.75
+Low Risk,12440,3878,31.17,12.35

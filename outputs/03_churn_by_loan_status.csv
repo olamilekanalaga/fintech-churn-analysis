@@ -1,0 +1,6 @@
+loan_status,users,churned_users,churn_rate_pct
+Rejected Loan,129,107,82.95
+Received Loan,424,271,63.92
+Cancelled Loan,472,267,56.57
+No Loan Interaction,23686,10520,44.41
+Waiting For Loan,30,8,26.67
